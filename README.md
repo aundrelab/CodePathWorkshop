@@ -5,8 +5,8 @@ The CTI-IPS Summer Workshop strived to articulate the necessary information in o
 
 Included in each python problem file:
   - Name of Problem
-  - Source (Website--Leetcode, InterviewBit, HackerRank, Kattis, other)
-  - Link to Problem 
+  - Source (Website--Leetcode, InterviewBit, HackerRank, Kattis, other) --> if provided.
+  - Link to Problem --> if provided.
   - Instructions/Prompt
   - Example Inputs/Outputs
   - Pseudocode
