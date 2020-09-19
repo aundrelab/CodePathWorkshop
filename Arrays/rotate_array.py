@@ -1,13 +1,16 @@
 
 '''
+*** Problem ****************************************************
 Problem: Rotated Array (Similar)
 Source: InterviewBit
-Link: https://www.interviewbit.com/problems/rotated-array/
+Link: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/
+
+*** Prompt ****************************************************
 
 Given an array, rotate the array to the right by k steps, where k is non-negative.
 
 
-# *** Examples ****************************************************
+*** Examples ****************************************************
 
 Input: [1,2,3,4,5,6,7] and k = 3
 Output: [5,6,7,1,2,3,4]
@@ -23,6 +26,8 @@ rotate 1 steps to the right: [99,-1,-100,3]
 rotate 2 steps to the right: [3,99,-1,-100]
 
 '''
+
+# *** Solution *****************************************************
 
 def rotate_array(input_array, k):
   for i in range(k):
