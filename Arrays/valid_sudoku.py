@@ -1,8 +1,8 @@
 '''
 *** Problem ****************************************************
 Problem: Valid Sudoku
-Source: InterviewBit
-Link: https://www.interviewbit.com/problems/pascal-triangle/
+Source: LeetCode
+Link: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/ (Links to an external site.)
 
 *** Prompt ****************************************************
 
