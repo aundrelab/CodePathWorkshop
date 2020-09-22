@@ -54,5 +54,5 @@ Ouput:
      [1,4,6,4,1]
 ]
 ''' 
-print(rotate_array([1,2,3,4,5,6,7], 3))
+print(pascal_triangle(5))
 

@@ -32,7 +32,7 @@ rotate 2 steps to the right: [3,99,-1,-100]
 def rotate_array(input_array, k):
   for i in range(k):
     input_array.insert(0, input_array.pop())
-  print(input_array)
+  return input_array
 
 
 '''
